@@ -1,6 +1,6 @@
 <!-- 🌟 HEADER -->
-<h1 align="center">Hey 👋, I'm Peter Yeboah</h1>
-<h3 align="center">Frontend Developer on a Fullstack Journey — Turning pixels & logic into experiences people love 💡</h3>
+<h1 align="center">Hi 👋, I'm Peter Yeboah</h1>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+on+a+Fullstack+;Journey+%E2%80%94+Turning+pixels+%26+logic;+into+experiences+users+love+%F0%9F%92%A1" alt="Typing SVG" /></a></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=peter-yeboah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
