@@ -34,7 +34,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | [🌾 **Farmer Market Original**](https://farmer-market-original.vercel.app/) | A digital marketplace connecting farmers and buyers directly — cutting out the middlemen. | ![React](https://img.shields.io/badge/-React-blue) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38BDF8) ![Node.js](https://img.shields.io/badge/-Node.js-68A063) |
-| [🏙️ **High Towers Project**](https://high-towers.vercel.app/) | A tourism platform showcasing landmarks and cultural attractions. | ![Next.js](https://img.shields.io/badge/-Next.js-black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6) ![Vite](https://img.shields.io/badge/-Vite-646CFF) |
+| [🏙️ **High Towers Project**](https://hightowers-project.vercel.app/) | A tourism platform showcasing landmarks and cultural attractions. | ![Next.js](https://img.shields.io/badge/-Next.js-black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6) ![Vite](https://img.shields.io/badge/-Vite-646CFF) |
 
 ---
 
